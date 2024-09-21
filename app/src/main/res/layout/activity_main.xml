@@ -61,7 +61,7 @@ android:background="@color/main_bg">
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Calculate BMI"
+        android:text="Calculate"
         android:background="@drawable/bg_btn"
         android:textColor="@color/background" />
     <TextView
